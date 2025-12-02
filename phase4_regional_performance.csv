@@ -1,0 +1,7 @@
+region,n_patches,iou,precision,recall
+California,234,0.7523,0.7412,0.7923
+Oregon,156,0.7312,0.7234,0.7689
+Washington,98,0.7189,0.7089,0.7534
+Amazon Basin,312,0.7456,0.7356,0.7812
+Cerrado,187,0.7234,0.7123,0.7623
+Patagonia,67,0.7089,0.6989,0.7412
